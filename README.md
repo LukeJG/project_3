@@ -1,3 +1,6 @@
+Group Members: Luke Gearin, Zach Blest, Elliot Frink
+
+
 The following table lists the graph files alongside their corresponding MIS files and indicates whether the latter represents a maximal independent set (MIS).
 
 
